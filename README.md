@@ -1,2 +1,2 @@
 # CPO200-Google-Cloud-Storage
-A sample lifecycle management configuration for a Google Cloud Storage bucket.
+A sample Object Lifecycle Management configuration for a Google Cloud Storage bucket.
